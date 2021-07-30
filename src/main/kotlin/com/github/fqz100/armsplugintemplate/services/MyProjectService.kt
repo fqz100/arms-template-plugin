@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.fqz100.armsplugintemplate.services
 
+import com.github.fqz100.armsplugintemplate.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

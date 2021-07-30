@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fqz100.armsplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fqz100.armsplugintemplate.MyBundle
 
 class MyApplicationService {
 
