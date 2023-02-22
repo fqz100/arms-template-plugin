@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.fqz100.armstemplateplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
